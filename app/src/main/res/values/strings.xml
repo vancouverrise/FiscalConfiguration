@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fiscal Configuration</string>
+    <string name="tv_fiscal">Фискализация:</string>
+    <string name="tv_model">Модель:</string>
+    <string name="notificationAboutDate">*Просмотр и установка даты происходит в диалоговом окне</string>
+    <string name="Summa">Сумма</string>
+</resources>

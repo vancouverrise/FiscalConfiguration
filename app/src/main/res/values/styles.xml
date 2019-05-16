@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">#5C6BC0</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="AppCompatAlertDialogStyle" parent="Theme.MaterialComponents.Dialog.Alert">
+        <item name ="android:titleTextColor">#3949AB</item>
+        <item name="android:windowMinWidthMajor">95%</item>
+        <item name="android:windowMinWidthMinor">95%</item>
+
+
+    </style>
+
+</resources>

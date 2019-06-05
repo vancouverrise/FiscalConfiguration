@@ -13,6 +13,7 @@ public class PacketBuilder {
 
 
     public byte[] PacketBuilder (byte nomer, PrinterCommand command)  {
+        System.out.println("Some test before send");
 
         commandRequest = (command.getRequest(nomer));
         serialCommandBuilder = new SerialCommand.Builder(commandRequest);
